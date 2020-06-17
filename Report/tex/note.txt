@@ -1,0 +1,4 @@
+## A note about the Latex Template used for this project
+
+This project report was written in Overleaf using an
+existing template.

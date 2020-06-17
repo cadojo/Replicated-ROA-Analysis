@@ -1,0 +1,4 @@
+## Simple Git Ignore 
+
+# MacOS Files
+*.DS_Store*
